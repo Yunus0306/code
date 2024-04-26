@@ -1,0 +1,9 @@
+.bg-image {
+    background-image: url(img/slider-image3.jpg);
+    width: 100%;
+    background-size: cover;
+}
+.bg-image2 {
+    background-image: url(img/testimonial-bg.jpg);
+    background-size: cover;
+}
